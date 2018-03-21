@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """ This script is used to execute command on multiple Linux machines in parallel using root user. (paramiko method) """
 
